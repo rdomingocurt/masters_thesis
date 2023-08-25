@@ -1,4 +1,5 @@
-# masters_thesis
+# Readme! Please, click on code/raw to see this file in the correct format
+
 This repository is created with the aim of uploading and saving all the developments that have been done in my final masters degree project
 
 Hello!
